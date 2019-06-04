@@ -6,7 +6,8 @@ small resources for html manipulation with css
 
 Create a style for ```<code>``` tag in a list.
  Ex: 
- ```<pre class="code">
+ ```html
+ <pre class="code">
    <code> let counter = 0 </code>
    <code> counter ++ </code>
  </pre>
