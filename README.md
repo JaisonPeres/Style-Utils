@@ -6,3 +6,5 @@ small resources for html manipulation with css
 
 Create a style for ```<code>``` tag in a list.
  Ex: ```<code> This is a code </code>```
+ 
+![Example](https://github.com/JaisonPeres/Style-Utils/blob/master/Screenshot_2019-06-04%20Dashboard.png)
