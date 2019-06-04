@@ -1,4 +1,4 @@
-# css-utils
+# Style Utils
 small resources for html manipulation with css
 
 ## Block Code
