@@ -1,8 +1,8 @@
-# Style Utils
-small resources for html manipulation with css
+# Block Code Style
+A small style for list of code examples
 
-## Block Code
-[block_code.styl](https://github.com/JaisonPeres/css-utils/blob/master/block_code.styl)
+## The Style
+[style.styl](https://github.com/JaisonPeres/css-utils/blob/master/style.styl)
 
 Create a style for ```<code>``` tag in a list.
  Ex: 
