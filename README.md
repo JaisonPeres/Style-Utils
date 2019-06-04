@@ -2,8 +2,7 @@
 small resources for html manipulation with css
 
 ## Block Code
-[block_code.styl]
-(https://github.com/JaisonPeres/css-utils/blob/master/block_code.styl)
+[block_code.styl](https://github.com/JaisonPeres/css-utils/blob/master/block_code.styl)
 
 Create a style for ```<code>``` tag in a list.
  Ex: 
@@ -14,4 +13,5 @@ Create a style for ```<code>``` tag in a list.
  </pre>
  ```
  
-![Example](https://github.com/JaisonPeres/Style-Utils/blob/master/Screenshot_2019-06-04%20Dashboard.png)
+![Example]
+(https://github.com/JaisonPeres/Style-Utils/blob/master/Screenshot_2019-06-04%20Dashboard.png)
